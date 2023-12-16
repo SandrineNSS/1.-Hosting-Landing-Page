@@ -318,7 +318,7 @@
     
     <h2 class="text-center display-4 my-md-5 my-4">Contact-us</h2>
 
-    <?php include 'index.php/formulaire_contact.php'; ?>
+    <?php require_once 'index.php/formulaire_contact.php'; ?>
     
 </section>
 
